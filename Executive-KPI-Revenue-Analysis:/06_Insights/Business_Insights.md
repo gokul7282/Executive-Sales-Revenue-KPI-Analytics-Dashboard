@@ -1,7 +1,7 @@
-# 📊 Business Insights – Executive KPI & Sales Dashboard
+# 📊 📊 Executive Business Insights & Performance Analysis
 
 ## 📌 Executive Summary
-- The dashboard provides a complete overview of sales, profit, customer, product, and regional performance.
+- This dashboard delivers a comprehensive executive-level view of sales, revenue, profitability, customer behavior, product performance, and regional analytics to support data-driven decision-making.
 - Total Revenue shows strong overall performance across the dataset period.
 - Total Profit indicates steady business growth with stable margins.
 - Sales performance is driven by a few key products, customers, and regions.
