@@ -1,4 +1,4 @@
-# 📊 Executive KPI & Revenue Analysis Project
+# 📊 Executive Sales, Revenue & KPI Analytics Dashboard
 
 ## 📌 Project Overview
 This project is a Power BI Sales Dashboard built to analyze sales performance, customer behavior, product trends, and regional insights.
