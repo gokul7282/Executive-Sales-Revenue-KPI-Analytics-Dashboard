@@ -1,7 +1,7 @@
 # 📊 Executive Sales, Revenue & KPI Analytics Dashboard
 
 ## 📌 Project Overview
-This project is a Power BI Sales Dashboard built to analyze sales performance, customer behavior, product trends, and regional insights.
+This project is an end-to-end data analytics solution built using Python, SQL, and Power BI to analyze sales performance, revenue trends, customer behavior, product categories, and regional insights for executive decision-making.
 
 The project follows a structured analytics workflow from data cleaning to visualization.
 
